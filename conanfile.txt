@@ -1,0 +1,8 @@
+[requires]
+protobuf/3.21.1
+
+ 
+[options]
+ 
+[generators]
+cmake
